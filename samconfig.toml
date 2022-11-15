@@ -1,0 +1,11 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "layer-demo"
+s3_bucket = "xxxxx"
+s3_prefix = "layer-demo"
+region = "ap-southeast-1"
+capabilities = "CAPABILITY_IAM"
+disable_rollback = true
+image_repositories = []
