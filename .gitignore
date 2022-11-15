@@ -241,6 +241,8 @@ $RECYCLE.BIN/
 
 */build/*
 
+samconfig.toml
+
 .idea
 .aws-sam
 
