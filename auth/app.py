@@ -1,8 +1,8 @@
 import requests
 
 REGION = 'ap-southeast-1'
-ACCOUNT_ID = '076433462823'
-API_ID = 'v6aetkjxv9'
+ACCOUNT_ID = 'xxxxxx'
+API_ID = 'xxxxx'
 
 API_PERMISSIONS = [
     {
